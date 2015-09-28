@@ -1,0 +1,62 @@
+body {
+    text-align: center;
+}
+
+h1 {
+	font-family: 'Sigmar One', cursive;
+	color: #003399;
+	font-size: 35px;
+}
+
+h2 {
+	font-family: 'Noto Sans', sans-sarif;
+	color: #003366;
+	font-size: 30px;
+	font-style: italic;
+}
+
+h3 {
+	font-family: 'Titillium Web', sans-sarif;
+	color: #A32900;
+	font-size: 28px;
+	font-style: bold;
+}
+
+.instruction {
+	text-align: left;
+	padding-top: 1%;
+	padding-left: 30%;
+}
+
+ul {
+	font-family: 'Titillium Web', sans-sarif;
+	color: #000000;
+	font-size: 20px;
+	font-style: bold;
+}
+
+em{
+	font-weight: bold;
+}
+
+.direction {
+	color: #0000B8;
+}
+
+.gem {
+	color: #199019;
+}
+
+.key {
+	color: #D18E28;
+}
+
+.heart {
+	color: #E60000;
+}
+
+footer {
+	font-family: 'Noto Sans', sans-sarif;
+	color: #7F7F7F;
+	font-size: 20px;
+}
